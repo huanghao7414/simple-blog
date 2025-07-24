@@ -17,21 +17,21 @@ export default function BlogHomePage() {
       desc: "Java 后端、系统设计、数据库调优与架构思考。",
       bg: "from-blue-900 via-slate-800 to-black",
       text: "text-blue-300",
-      image: "/images/tech.jpg",
+      image: "/simple-blog/images/tech.jpg",
     },
     {
       title: "AI & 工具链",
       desc: "探索 AI Agent、大模型集成与自动化工作流。",
       bg: "from-purple-900 via-gray-800 to-black",
       text: "text-purple-300",
-      image: "/images/ai.jpg",
+      image: "/simple-blog/images/ai.jpg",
     },
     {
       title: "个人笔记",
       desc: "读书札记、认知思考、生活方式与成长瞬间。",
       bg: "from-rose-900 via-slate-900 to-black",
       text: "text-pink-300",
-      image: "/images/life.jpg",
+      image: "/simple-blog/images/life.jpg",
     },
   ];
 
